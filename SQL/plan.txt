@@ -1,0 +1,19 @@
+1. set rooms and prices for rooms
+2. create login part as a whole for user
+
+
+
+room types : 
+singles, doubles, quads, queen and king
+suite (bedroom with living room)
+president suite (grand suite with grand things)
+Accessible Room or disabled room for disabled room
+cabana (room with pool)
+
+immages 248x400
+width x height
+
+
+terms and condition
+why choose us
+
